@@ -48,4 +48,4 @@ This project aligns with NIST Cybersecurity Framework (CSF) and Risk Management 
 - Clearwater IRM
 
 ## Note
-This project is based on academic coursework completed as part of a Master’s in Cybersecurity. RWW is a fictional organization used for educational purposes.
+This project is based on academic coursework completed as part of a Master’s in Cybersecurity and was further developed into a personal portfolio project. RWW is a fictional organization used for educational purposes.
