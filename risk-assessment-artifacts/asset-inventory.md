@@ -5,9 +5,9 @@ This analysis enhances visibility into critical systems, sensitive data, and bus
 
 ## Sample Output
 
-![Asset Inventory](../inventory-sample-1.png)
+![Asset Inventory](inventory-sample-1.png)
 
-![Asset Inventory Continued](../inventory-sample-2.png)
+![Asset Inventory Continued](inventory-sample-2.png)
 
 ## Key Takeaways
 
