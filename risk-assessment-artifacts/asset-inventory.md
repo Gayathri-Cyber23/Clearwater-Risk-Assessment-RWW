@@ -1,13 +1,13 @@
 # Enterprise Asset Inventory Analysis
 
 ## Overview
-This analysis improves visibility into critical systems, sensitive data, and business continuity requirements.
+This analysis enhances visibility into critical systems, sensitive data, and business continuity requirements.
 
 ## Sample Output
 
-![Asset Inventory](../Asset-Inventory-1.png)
+![Asset Inventory](./Inventory-Sample-1.png)
 
-![Asset Inventory Continued](../Asset-Inventory-2.png)
+![Asset Inventory Continued](./Inventory-Sample-2.png)
 
 ## Key Takeaways
 
