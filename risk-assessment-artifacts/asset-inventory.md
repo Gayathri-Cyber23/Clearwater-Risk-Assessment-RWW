@@ -1,7 +1,7 @@
-# Asset Inventory Report
+# Enterprise Asset Inventory Analysis
 
 ## Overview
-This report presents asset classification, data sensitivity, and recovery objectives identified during a simulated enterprise risk assessment.
+This analysis improves visibility into critical systems, sensitive data, and business continuity requirements.
 
 ## Sample Output
 
@@ -14,4 +14,4 @@ This report presents asset classification, data sensitivity, and recovery object
 - Identified systems containing PII, PCI, and confidential data
 - Classified assets based on business importance
 - Defined recovery objectives (RTO and RPO)
-- Highlighted critical systems such as SQL databases and Active Directory
+- Identified critical systems such as SQL databases and Active Directory supporting core business operations
