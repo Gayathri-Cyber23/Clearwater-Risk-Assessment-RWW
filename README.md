@@ -3,9 +3,6 @@
 ## Overview
 This project demonstrates a risk assessment and risk response process conducted for Random Widget Works (RWW), a fictional organization used in graduate cybersecurity coursework.
 
-## Project Sections
-- [Artifacts Overview](risk-assessment-artifacts/Overview.md)
-
 ## Sample Preview
 
 ### Asset Inventory
