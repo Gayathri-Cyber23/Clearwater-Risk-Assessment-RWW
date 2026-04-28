@@ -6,6 +6,14 @@ This project demonstrates a risk assessment and risk response process conducted 
 ## Project Sections
 - [Artifacts Overview](risk-assessment-artifacts/Overview.md)
 
+## Sample Preview
+
+### Asset Inventory
+![Asset Inventory](risk-assessment-artifacts/inventory-images/img-inventory-1.png)
+
+### Component Groups
+![Component Groups](risk-assessment-artifacts/component-images/img-components-group-1.png)
+
 ## Project Objective
 To identify critical assets, evaluate risks, and recommend controls to reduce risk using Clearwater IRM.
 
