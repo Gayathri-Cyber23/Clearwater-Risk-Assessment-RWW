@@ -6,11 +6,11 @@
 
 ## Sample Output
 
-![Component Groups Sample 1](img-components-group-1.png)
+![Component Groups Sample 1](component-images/img-components-group-1.png)
 
-![Component Groups Sample 2](img-components-group-2.png)
+![Component Groups Sample 2](component-images/img-components-group-2.png)
 
-![Component Groups Sample 3](img-components-group-3.png)
+![Component Groups Sample 3](component-images/img-components-group-3.png)
 
 ## Key Takeaways
 
