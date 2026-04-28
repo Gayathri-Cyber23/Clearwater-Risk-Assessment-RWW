@@ -14,6 +14,9 @@ This project demonstrates a risk assessment and risk response process conducted 
 ### Risk Rating
 ![Risk Rating](risk-assessment-artifacts/risk-rating-images/img-risk-rating-1.png)
 
+### Risk Response
+![Risk Response](risk-assessment-artifacts/risk-response-images/img-risk-response-1.png)
+
 ## Project Objective
 To identify critical assets, evaluate risks, and recommend controls to reduce risk using Clearwater IRM.
 
