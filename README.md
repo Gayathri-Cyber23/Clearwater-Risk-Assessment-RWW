@@ -60,6 +60,10 @@ This project aligns with NIST Cybersecurity Framework (CSF) and Risk Management 
 - Risk_Rating_Report.pdf
 - Risk_Response_Report.pdf
 
+## Business Impact
+
+This project demonstrates how structured risk assessment improves organizational decision-making by identifying critical assets, prioritizing risks, and recommending controls to reduce potential business impact. The analysis supports better resource allocation and strengthens overall security posture.
+
 ## Tools Used
 - Clearwater IRM
 
