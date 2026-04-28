@@ -45,11 +45,13 @@ This project aligns with NIST Cybersecurity Framework (CSF) and Risk Management 
 - Recover: Backup and recovery (RTO/RPO)
 
 ## Skills Demonstrated
-- Risk Assessment
-- Asset Inventory and Classification
-- Risk Rating and Analysis
-- Control Recommendation
+
+- Risk Assessment (Likelihood × Impact)
+- Asset Inventory and Classification (PII, Critical Systems)
+- Risk Rating and Prioritization
+- Control Recommendation and Mitigation Planning
 - Governance, Risk, and Compliance (GRC)
+- NIST RMF Alignment
 
 ## Files
 - RWW_Case_Overview.pdf
